@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+.idea/
+config.py
+info_err.log
+.venv/
+__pycache__/
+*.xls
+*.csv
